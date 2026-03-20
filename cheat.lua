@@ -1,4 +1,4 @@
-for i = 1, 10 do
+for i = 1, 100 do
 workspace.xcopert25.HumanoidRootPart.CFrame = CFrame.new(-31.8161621, 15.99027061, -77.2901001, -1, 0, 0, 0, 1, 0, 0, 0, -1)
 wait(1)
 workspace.xcopert25.HumanoidRootPart.CFrame = CFrame.new(69.2496033, 15.99027061, -41.750267, -1, 0, 0, 0, 1, 0, 0, 0, -1)
